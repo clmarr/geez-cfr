@@ -1,9 +1,9 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :24:
-#xulkˀum# >>> #xʷʉlkˀʷʉ# ( GOLD : #xʷɨlkˀʷ#) :
+#xulkˀum# >>> #xʷɨlkˀʷɨ# ( GOLD : #xʷɨlkˀʷ#) :
 x u l kˀ u m 
 #xulkˀu# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #xulkˀu#
 #xʷulkˀʷu# | 4 : [+back,-son] > [+round,+lab] / __ u
 Pre-Ge'ez stage form : #xʷulkˀʷu#
-#xʷʉlkˀʷʉ# | 5 : [+syl,-long] > [-front,-back,-lo] 
-Final form : #xʷʉlkˀʷʉ#
+#xʷɨlkˀʷɨ# | 5 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+Final form : #xʷɨlkˀʷɨ#

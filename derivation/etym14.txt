@@ -3,5 +3,5 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :14:
 j i r b a ħ 
 Early-Proto-Southwest-Semitic stage form : #jirbaħ#
 Pre-Ge'ez stage form : #jirbaħ#
-#jɨrbɘħ# | 5 : [+syl,-long] > [-front,-back,-lo] 
+#jɨrbɘħ# | 5 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #jɨrbɘħ#

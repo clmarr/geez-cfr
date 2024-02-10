@@ -1,8 +1,8 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :4:
-#jat͡sɡud# >>> #jɘt͡sɡʷʉd# ( GOLD : #jɨsɡɨd#) :
+#jat͡sɡud# >>> #jɘt͡sɡʷɨd# ( GOLD : #jɨsɡɨd#) :
 j a t͡s ɡ u d 
 Early-Proto-Southwest-Semitic stage form : #jat͡sɡud#
 #jat͡sɡʷud# | 4 : [+back,-son] > [+round,+lab] / __ u
 Pre-Ge'ez stage form : #jat͡sɡʷud#
-#jɘt͡sɡʷʉd# | 5 : [+syl,-long] > [-front,-back,-lo] 
-Final form : #jɘt͡sɡʷʉd#
+#jɘt͡sɡʷɨd# | 5 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+Final form : #jɘt͡sɡʷɨd#

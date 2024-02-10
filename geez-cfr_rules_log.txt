@@ -3,4 +3,4 @@ p > f
 [+ant,+cont,-son] > [+strid,-distr,+cor] 
 d͡z > z 
 [+back,-son] > [+round,+lab] / __ u
-[+syl,-long] > [-front,-back,-lo] 
+[+syl,-long] > [-front,-back,-lo,-round,-lab] 

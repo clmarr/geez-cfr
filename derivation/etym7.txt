@@ -4,5 +4,5 @@ t i ɬˀ a b b a ʔ uː
 #tisˀˡabbaʔuː# | 2 : [+ant,+cont,-son] > [+strid,-distr,+cor] 
 Early-Proto-Southwest-Semitic stage form : #tisˀˡabbaʔuː#
 Pre-Ge'ez stage form : #tisˀˡabbaʔuː#
-#tɨsˀˡɘbbɘʔuː# | 5 : [+syl,-long] > [-front,-back,-lo] 
+#tɨsˀˡɘbbɘʔuː# | 5 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #tɨsˀˡɘbbɘʔuː#

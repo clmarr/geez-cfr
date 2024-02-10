@@ -1,9 +1,9 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :22:
-#ɡubnatum# >>> #ɡʷʉbnɘtʉ# ( GOLD : #ɡʷɨbnɘt#) :
+#ɡubnatum# >>> #ɡʷɨbnɘtɨ# ( GOLD : #ɡʷɨbnɘt#) :
 ɡ u b n a t u m 
 #ɡubnatu# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #ɡubnatu#
 #ɡʷubnatu# | 4 : [+back,-son] > [+round,+lab] / __ u
 Pre-Ge'ez stage form : #ɡʷubnatu#
-#ɡʷʉbnɘtʉ# | 5 : [+syl,-long] > [-front,-back,-lo] 
-Final form : #ɡʷʉbnɘtʉ#
+#ɡʷɨbnɘtɨ# | 5 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+Final form : #ɡʷɨbnɘtɨ#

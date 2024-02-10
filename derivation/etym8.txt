@@ -1,7 +1,7 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :8:
-#kawuna# >>> #kɘwʉnɘ# ( GOLD : #konɘ#) :
+#kawuna# >>> #kɘwɨnɘ# ( GOLD : #konɘ#) :
 k a w u n a 
 Early-Proto-Southwest-Semitic stage form : #kawuna#
 Pre-Ge'ez stage form : #kawuna#
-#kɘwʉnɘ# | 5 : [+syl,-long] > [-front,-back,-lo] 
-Final form : #kɘwʉnɘ#
+#kɘwɨnɘ# | 5 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+Final form : #kɘwɨnɘ#

@@ -4,5 +4,5 @@ b a j t a m
 #bajta# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #bajta#
 Pre-Ge'ez stage form : #bajta#
-#bɘjtɘ# | 5 : [+syl,-long] > [-front,-back,-lo] 
+#bɘjtɘ# | 5 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #bɘjtɘ#

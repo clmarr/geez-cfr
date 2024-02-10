@@ -37,6 +37,6 @@ $centralization (and derounding) of short vowels:
 	$  /a/ centralizes and raises to /ɘ/
 	$ /i/ and /u/ merge to /ɨ/  
 	$ thankfully this can be expressed in a single rule!
-[+syl,-long] > [-front,-back,-lo] 
+[+syl,-long] > [-front,-back,-lo,-round,-lab] 
 
 $long vowels shorten 

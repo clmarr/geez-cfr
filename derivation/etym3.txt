@@ -4,5 +4,5 @@ j i ð b a ħ
 #jizbaħ# | 2 : [+ant,+cont,-son] > [+strid,-distr,+cor] 
 Early-Proto-Southwest-Semitic stage form : #jizbaħ#
 Pre-Ge'ez stage form : #jizbaħ#
-#jɨzbɘħ# | 5 : [+syl,-long] > [-front,-back,-lo] 
+#jɨzbɘħ# | 5 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #jɨzbɘħ#
