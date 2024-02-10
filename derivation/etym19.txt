@@ -2,8 +2,8 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :19:
 #maθˀlimum# >>> #mɘsˀlɨmɨ# ( GOLD : #mɘsˀlɨm#) :
 m a θˀ l i m u m 
 #maθˀlimu# | 0 : m > ∅ / __ #
-#masˀlimu# | 2 : [+ant,+cont,-son] > [+strid,-distr,+cor] 
+#masˀlimu# | 1 : [+ant,+cont,-son] > [+strid,-distr,+cor] 
 Early-Proto-Southwest-Semitic stage form : #masˀlimu#
 Pre-Ge'ez stage form : #masˀlimu#
-#mɘsˀlɨmɨ# | 5 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#mɘsˀlɨmɨ# | 6 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #mɘsˀlɨmɨ#

@@ -3,5 +3,5 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :1:
 l a b i s a 
 Early-Proto-Southwest-Semitic stage form : #labisa#
 Pre-Ge'ez stage form : #labisa#
-#lɘbɨsɘ# | 5 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#lɘbɨsɘ# | 6 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #lɘbɨsɘ#

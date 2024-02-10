@@ -10,14 +10,17 @@ m > ∅ / __ #
 
 $end of late West-Semitic developments
 
-$p fricated. Shared with Arabic and MSA. But reasonably common.
-p > f 
 
 $interdentals assibilated. Shared with Canaanite. But this is also reasonably common. 
 [+ant,+cont,-son] > [+strid,-distr]
 
-$dz to z, at least. Unclear if other affricates survive as such. dz > z shared with many other (sub)branches but it's a very common shift
-d͡z > z
+$p fricated. Shared with Arabic and MSA. But reasonably common.
+p > f 
+
+$dz to z and ts to s deaffricated. This is shared with Hebrew. p to f also happens (shared with Arabic and MSA). Unclear if other affricates survive as such. Running these all together.
+	$  > [+delrel], because p͡ɸ is yet undefined in symbolDefs
+p > [+delrel,+strid]
+[+ant,+delrel] > [+cont]
 
 $end of developments shared with many (but not all) other West-Semitic branches
 =Early-Proto-Southwest-Semitic

@@ -1,6 +1,7 @@
 m > ∅ / __ #
-p > f 
 [+ant,+cont,-son] > [+strid,-distr,+cor] 
-d͡z > z 
+p > f 
+p > ? 
+[+ant,+delrel] > [+cont,0delrel] 
 [+back,-son] > [+round,+lab] / __ u
 [+syl,-long] > [-front,-back,-lo,-round,-lab] 
