@@ -1,7 +1,8 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :1:
-#labisa# >>> #lɘbɨsɘ# ( GOLD : #lɘbsɘ#) :
+#labisa# >>> #lɘbsɘ# ( GOLD : #lɘbsɘ#) :
 l a b i s a 
 Early-Proto-Southwest-Semitic stage form : #labisa#
 Pre-Ge'ez stage form : #labisa#
-#lɘbɨsɘ# | 6 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-Final form : #lɘbɨsɘ#
+#lɘbɨsɘ# | 7 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#lɘbsɘ# | 9 : ɨ > ∅ / [+syl] [-syl] __ [-syl] [+syl]
+Final form : #lɘbsɘ#

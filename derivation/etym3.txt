@@ -1,8 +1,9 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :3:
-#jiðbaħ# >>> #jɨzbɘħ# ( GOLD : #jɨzbaħ#) :
+#jiðbaħ# >>> #jɨzbaħ# ( GOLD : #jɨzbaħ#) :
 j i ð b a ħ 
-#jizbaħ# | 1 : [+ant,+cont,-son] > [+strid,-distr,+cor] 
+#jizbaħ# | 1 : [+ant,+cont,-son,-lat] > [+strid,-distr,+cor] 
 Early-Proto-Southwest-Semitic stage form : #jizbaħ#
 Pre-Ge'ez stage form : #jizbaħ#
-#jɨzbɘħ# | 6 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-Final form : #jɨzbɘħ#
+#jɨzbɘħ# | 7 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#jɨzbaħ# | 13 : ɘ > a / __ [+lo,-hi,-son]
+Final form : #jɨzbaħ#

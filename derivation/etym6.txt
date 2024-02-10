@@ -1,8 +1,10 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :6:
-#samaːjum# >>> #sɘmaːjɨ# ( GOLD : #sɘmaj#) :
+#samaːjum# >>> #sɘmaj# ( GOLD : #sɘmaj#) :
 s a m aː j u m 
 #samaːju# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #samaːju#
 Pre-Ge'ez stage form : #samaːju#
-#sɘmaːjɨ# | 6 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-Final form : #sɘmaːjɨ#
+#sɘmaːjɨ# | 7 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#sɘmaːj# | 8 : ɨ > ∅ / __ #
+#sɘmaj# | 12 : [+syl] > [-long,-splng] / __ [+cont]
+Final form : #sɘmaj#

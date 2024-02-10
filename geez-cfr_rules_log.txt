@@ -1,7 +1,15 @@
 m > ∅ / __ #
-[+ant,+cont,-son] > [+strid,-distr,+cor] 
+[+ant,+cont,-son,-lat] > [+strid,-distr,+cor] 
 p > f 
 p > ? 
 [+ant,+delrel] > [+cont,0delrel] 
 [+back,-son] > [+round,+lab] / __ u
+a > ɨ / __ ( [-syl] )* uː ( [-syl] )* #
 [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+ɨ > ∅ / __ #
+ɨ > ∅ / [+syl] [-syl] __ [-syl] [+syl]
+ɘ [+hi,ɑback,βround,ɣfront] > [ɑback,βround,ɣfront] ∅
+[+syl] > [-long,-splng] / __ #
+[+syl] > [-long,-splng] / __ [+cont]
+ɘ > a / __ [+lo,-hi,-son]
+ɘ > a / __ ʔ

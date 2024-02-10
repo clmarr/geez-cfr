@@ -1,8 +1,9 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :15:
-#bajtam# >>> #bɘjtɘ# ( GOLD : #betɘ#) :
+#bajtam# >>> #betɘ# ( GOLD : #betɘ#) :
 b a j t a m 
 #bajta# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #bajta#
 Pre-Ge'ez stage form : #bajta#
-#bɘjtɘ# | 6 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-Final form : #bɘjtɘ#
+#bɘjtɘ# | 7 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#betɘ# | 10 : ɘ [+hi,ɑback,βround,ɣfront] > [ɑback,βround,ɣfront] ∅
+Final form : #betɘ#

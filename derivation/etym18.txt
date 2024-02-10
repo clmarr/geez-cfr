@@ -1,8 +1,9 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :18:
-#ɬajiba# >>> #sˡɘjɨbɘ# ( GOLD : #ɬebɘ#) :
+#ɬajiba# >>> #ɬebɘ# ( GOLD : #ɬebɘ#) :
 ɬ a j i b a 
-#sˡajiba# | 1 : [+ant,+cont,-son] > [+strid,-distr,+cor] 
-Early-Proto-Southwest-Semitic stage form : #sˡajiba#
-Pre-Ge'ez stage form : #sˡajiba#
-#sˡɘjɨbɘ# | 6 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-Final form : #sˡɘjɨbɘ#
+Early-Proto-Southwest-Semitic stage form : #ɬajiba#
+Pre-Ge'ez stage form : #ɬajiba#
+#ɬɘjɨbɘ# | 7 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#ɬɘjbɘ# | 9 : ɨ > ∅ / [+syl] [-syl] __ [-syl] [+syl]
+#ɬebɘ# | 10 : ɘ [+hi,ɑback,βround,ɣfront] > [ɑback,βround,ɣfront] ∅
+Final form : #ɬebɘ#
