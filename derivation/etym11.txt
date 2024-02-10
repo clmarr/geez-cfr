@@ -4,5 +4,5 @@ d͡z a l a l a
 #zalala# | 4 : [+ant,+delrel] > [+cont,0delrel] 
 Early-Proto-Southwest-Semitic stage form : #zalala#
 Pre-Ge'ez stage form : #zalala#
-#zɘlɘlɘ# | 7 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#zɘlɘlɘ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #zɘlɘlɘ#

@@ -5,6 +5,6 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :10:
 #ziʔbi# | 1 : [+ant,+cont,-son,-lat] > [+strid,-distr,+cor] 
 Early-Proto-Southwest-Semitic stage form : #ziʔbi#
 Pre-Ge'ez stage form : #ziʔbi#
-#zɨʔbɨ# | 7 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#zɨʔb# | 8 : ɨ > ∅ / __ #
+#zɨʔbɨ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#zɨʔb# | 9 : ɨ > ∅ / __ #
 Final form : #zɨʔb#

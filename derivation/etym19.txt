@@ -5,6 +5,6 @@ m a θˀ l i m u m
 #masˀlimu# | 1 : [+ant,+cont,-son,-lat] > [+strid,-distr,+cor] 
 Early-Proto-Southwest-Semitic stage form : #masˀlimu#
 Pre-Ge'ez stage form : #masˀlimu#
-#mɘsˀlɨmɨ# | 7 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#mɘsˀlɨm# | 8 : ɨ > ∅ / __ #
+#mɘsˀlɨmɨ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#mɘsˀlɨm# | 9 : ɨ > ∅ / __ #
 Final form : #mɘsˀlɨm#

@@ -3,12 +3,14 @@ m > ∅ / __ #
 p > f 
 p > ? 
 [+ant,+delrel] > [+cont,0delrel] 
-[+back,-son] > [+round,+lab] / __ u
-a > ɨ / __ ( [-syl] )* uː ( [-syl] )* #
+[-ant,-son] > [+round,+lab,] / # ( [-syl] )* __ u
+[-ant,-son] > [+round,+lab,] / [+syl,-lo] ( [-syl] )* __ u
+a > u / __ ( [+cons] )* [+cons,-cor,-ant] u
 [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 ɨ > ∅ / __ #
 ɨ > ∅ / [+syl] [-syl] __ [-syl] [+syl]
-ɘ [+hi,ɑback,βround,ɣfront] > [ɑback,βround,ɣfront] ∅
+ɘ [+hi,ɑback,βround,ɣfront,ɸlab] > [ɑback,βround,ɣfront,ɸlab] ∅/ __ #
+ɘ [+hi,ɑback,βround,ɣfront,ɸlab] > [ɑback,βround,ɣfront,ɸlab] ∅/ __ [-syl]
 [+syl] > [-long,-splng] / __ #
 [+syl] > [-long,-splng] / __ [+cont]
 ɘ > a / __ [+lo,-hi,-son]

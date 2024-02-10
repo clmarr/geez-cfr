@@ -4,5 +4,5 @@ d͡z i b l a # k a
 #zibla#ka# | 4 : [+ant,+delrel] > [+cont,0delrel] 
 Early-Proto-Southwest-Semitic stage form : #zibla#ka#
 Pre-Ge'ez stage form : #zibla#ka#
-#zɨblɘ#kɘ# | 7 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#zɨblɘ#kɘ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #zɨblɘ#kɘ#

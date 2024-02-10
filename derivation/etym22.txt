@@ -3,8 +3,8 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :22:
 ɡ u b n a t u m 
 #ɡubnatu# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #ɡubnatu#
-#ɡʷubnatu# | 5 : [+back,-son] > [+round,+lab] / __ u
+#ɡʷubnatu# | 5 : [-ant,-son] > [+round,+lab,] / # ( [-syl] )* __ u
 Pre-Ge'ez stage form : #ɡʷubnatu#
-#ɡʷɨbnɘtɨ# | 7 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#ɡʷɨbnɘt# | 8 : ɨ > ∅ / __ #
+#ɡʷɨbnɘtɨ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#ɡʷɨbnɘt# | 9 : ɨ > ∅ / __ #
 Final form : #ɡʷɨbnɘt#

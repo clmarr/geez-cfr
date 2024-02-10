@@ -26,16 +26,13 @@ p > [+delrel,+strid]
 $end of developments shared with many (but not all) other West-Semitic branches
 =Early-Proto-Southwest-Semitic
 
+$before short vowels are centralized, u triggers labialization on prior dorsal and guttural consonants
+$ but if there is an /a/ before the cluster, it absorbs the labialization instead, and it does not remain on the cluster. If the /a/ is short, it becomes /u/. If it is long /a:/... well the reflex ends up as /a:/, and that is all we know at this time. 
+[-ant,-son] > [+round,+lab,] / {#;[+syl,-lo]} ([-syl])* __ u
+a > u / __ ([+cons])* [+cons,-cor,-ant] u
 
-
-
-$before short vowels are centralized, u triggers labialization on prior dorsals consonants
-[+back,-son] > [+round,+lab] / __ u
 
 =Pre-Ge'ez
-
-$short /a/ is demoted to /ɨ/ before long (probably stressed) /uː/ (warning: hapax legomenon rule, but does make a strong prediction) 
-a > ɨ / __ ([-syl])* uː ([-syl])* #
 
 $I separate a Pre-Ge'ez off on the (arbitrary, but elegant-seeming) logic that (a) the vowel centralization delimits at least a few devleopments that should have happened before it into an earlier period than those that happen after, and (b) it's what makes Ge'ez start to sound like the sort of Circassianized Semitic it sounds like :) 
 
@@ -55,7 +52,7 @@ $apocope of ɨ if the resulting cluster is only two asyllabics (consonant or gli
 ɨ > ∅ / [+syl] [-syl] __ [-syl] [+syl]
 
 $ɘ coming into contact with a glide coalesces with it to form a vowel with its same place and roundness. Rule written broadly to boldly predict ɘ + vowel coalescence if possible. However, this must happen AFTER ɨ syncope because it feeds it. This does not happen if the glide could be a syllable onset (maximal onset principle), as seen from t͡sˀallaja > sˀɘllɘjɘ. 
-ɘ [+hi,ɑback,βround,ɣfront] > [ɑback,βround,ɣfront] ∅
+ɘ [+hi,ɑback,βround,ɣfront,ɸlab] > [ɑback,βround,ɣfront,ɸlab] ∅ / __ {#;[-syl]}
 
 $long vowels shorten, except in the case of ʔaɬwaːk, which is hte only pre-stop short vowel
 [+syl] > [-long] / __ {#;[+cont]} 

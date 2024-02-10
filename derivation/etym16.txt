@@ -4,6 +4,6 @@ j i p q a ʕ
 #jifqaʕ# | 2 : p > f 
 Early-Proto-Southwest-Semitic stage form : #jifqaʕ#
 Pre-Ge'ez stage form : #jifqaʕ#
-#jɨfqɘʕ# | 7 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#jɨfqaʕ# | 13 : ɘ > a / __ [+lo,-hi,-son]
+#jɨfqɘʕ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#jɨfqaʕ# | 15 : ɘ > a / __ [+lo,-hi,-son]
 Final form : #jɨfqaʕ#
