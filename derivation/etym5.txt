@@ -1,5 +1,5 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :5:
-#samiʕa# >>> #sɘmɨʕɘ# ( GOLD : #səmʕə#) :
+#samiʕa# >>> #sɘmɨʕɘ# ( GOLD : #sɘmʕɘ#) :
 s a m i ʕ a 
 Early-Proto-Southwest-Semitic stage form : #samiʕa#
 Pre-Ge'ez stage form : #samiʕa#

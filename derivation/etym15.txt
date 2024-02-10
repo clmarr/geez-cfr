@@ -1,5 +1,5 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :15:
-#bajtam# >>> #bɘjtɘ# ( GOLD : #betə#) :
+#bajtam# >>> #bɘjtɘ# ( GOLD : #betɘ#) :
 b a j t a m 
 #bajta# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #bajta#

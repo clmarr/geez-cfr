@@ -1,5 +1,5 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :22:
-#ɡubnatum# >>> #ɡʷʉbnɘtʉ# ( GOLD : #ɡʷɨbnət#) :
+#ɡubnatum# >>> #ɡʷʉbnɘtʉ# ( GOLD : #ɡʷɨbnɘt#) :
 ɡ u b n a t u m 
 #ɡubnatu# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #ɡubnatu#

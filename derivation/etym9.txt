@@ -1,5 +1,5 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :9:
-#θˀumʔam# >>> #sˀʉmʔɘ# ( GOLD : #sˀɨmʔə#) :
+#θˀumʔam# >>> #sˀʉmʔɘ# ( GOLD : #sˀɨmʔɘ#) :
 θˀ u m ʔ a m 
 #θˀumʔa# | 0 : m > ∅ / __ #
 #sˀumʔa# | 2 : [+ant,+cont,-son] > [+strid,-distr,+cor] 

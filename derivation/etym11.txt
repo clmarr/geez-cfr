@@ -1,5 +1,5 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :11:
-#d͡zalala# >>> #zɘlɘlɘ# ( GOLD : #zələlə#) :
+#d͡zalala# >>> #zɘlɘlɘ# ( GOLD : #zɘlɘlɘ#) :
 d͡z a l a l a 
 #zalala# | 3 : d͡z > z 
 Early-Proto-Southwest-Semitic stage form : #zalala#

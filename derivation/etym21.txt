@@ -1,5 +1,5 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :21:
-#kullam# >>> #kʷʉllɘ# ( GOLD : #kʷɨllə#) :
+#kullam# >>> #kʷʉllɘ# ( GOLD : #kʷɨllɘ#) :
 k u l l a m 
 #kulla# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #kulla#

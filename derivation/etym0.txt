@@ -1,5 +1,5 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :0:
-#jilabbis# >>> #jɨlɘbbɨs# ( GOLD : #jɨləbbɨs#) :
+#jilabbis# >>> #jɨlɘbbɨs# ( GOLD : #jɨlɘbbɨs#) :
 j i l a b b i s 
 Early-Proto-Southwest-Semitic stage form : #jilabbis#
 Pre-Ge'ez stage form : #jilabbis#

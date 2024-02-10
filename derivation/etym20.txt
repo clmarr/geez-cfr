@@ -1,5 +1,5 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :20:
-#t͡sˀallaja# >>> #t͡sˀɘllɘjɘ# ( GOLD : #sˀəlləjə#) :
+#t͡sˀallaja# >>> #t͡sˀɘllɘjɘ# ( GOLD : #sˀɘllɘjɘ#) :
 t͡sˀ a l l a j a 
 Early-Proto-Southwest-Semitic stage form : #t͡sˀallaja#
 Pre-Ge'ez stage form : #t͡sˀallaja#
