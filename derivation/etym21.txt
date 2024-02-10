@@ -1,0 +1,3 @@
+Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :21:
+#kullam# >>> #kullam# ( GOLD : #kʷɨllə#) :
+k u l l a m 
