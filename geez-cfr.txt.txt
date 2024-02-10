@@ -1,0 +1,5 @@
+$CFR from Proto-West-Semitic 
+
+$assumptions: emphatics as simply glottalized. 
+$ PWS a as -back +front (for typological reasons: the letter 'a' is [a], which is treated as low front) 
+$emphatic fricatives treated as simple fricatives (even if they may have been phonetically affricate in PWS) unless marked with a t/d before (as implore.3MSG.PERF was) in the handout. (< al-Jallad Feb 10 2024). 

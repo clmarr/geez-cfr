@@ -1,9 +1,9 @@
 $Proto-West-Semitic,Gə'əz$glosses are meanings in Gə'əz (?) 
-y i l a b b i s , y ɨ l ə b b ɨ s $wear.3MSG
+j i l a b b i s , j ɨ l ə b b ɨ s $wear.3MSG
 l a b i s a , l ə b s ə $wear.3MSG.PERF ('he has worn')
 kˀ a t a l a , kˀ ə t ə l ə $kill.3MSG.PERF
-y i ð b a ħ , y ɨ z b a ħ $slaughter.3MSG.PERF.SUBJ
-y a t͡s ɡ u d , y ɨ s ɡ ɨ d $bow.3MSG.PRET ('he bowed (down)') 
+j i ð b a ħ , j ɨ z b a ħ $slaughter.3MSG.PERF.SUBJ
+j a t͡s ɡ u d , j ɨ s ɡ ɨ d $bow.3MSG.PRET ('he bowed (down)') 
 s a m i ʕ a , s ə m ʕ ə $hear.3MSG.PERF
 s a m aː j u m , s ə m a j $sky, heaven. 
 t i ɬˀ a b b a ʔ uː , t ɨ ɬˀ ə b b ɨ ʔ u $make_war.3MSG
@@ -13,7 +13,7 @@ k a w u n a , k o n ə $be.3MSG.PRET
 d͡z a l a l a , z ə l ə l ə $shake.3CSG.PRET
 d͡z i b l a # k a , z ɨ b l ə # k ə $dung.ACC.2SG 
 m a w ɬˀ a ʔ u m , m o ɬˀ a ʔ $gift. 
-j i r b a ħ , y ɨ r b a ħ $be_wide.3SG.PRET.SUBJ
+j i r b a ħ , j ɨ r b a ħ $be_wide.3SG.PRET.SUBJ
 b a j t a m , b e t ə $house.ACC
 j i p q a ʕ , j ɨ f q a ʔ $split.3MSG.PRET
 ʔ a ɬ w aː k u m , ʔ ə ɬ w aː k $thorns
