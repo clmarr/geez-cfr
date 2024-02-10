@@ -1,27 +1,27 @@
-etID  | Input | Output {GOLD}
-0      | #jilabbis# | #jilabbis# {GOLD: #jɨləbbɨs#}
-1      | #labisa# | #labisa# {GOLD: #ləbsə#}
-2      | #kˀatala# | #kˀatala# {GOLD: #kˀətələ#}
-3      | #jiðbaħ# | #jiðbaħ# {GOLD: #jɨzbaħ#}
-4      | #jat͡sɡud# | #jat͡sɡud# {GOLD: #jɨsɡɨd#}
-5      | #samiʕa# | #samiʕa# {GOLD: #səmʕə#}
-6      | #samaːjum# | #samaːjum# {GOLD: #səmaj#}
-7      | #tiɬˀabbaʔuː# | #tiɬˀabbaʔuː# {GOLD: #tɨɬˀəbbɨʔu#}
-8      | #kawuna# | #kawuna# {GOLD: #konə#}
-9      | #θˀumʔam# | #θˀumʔam# {GOLD: #sˀɨmʔə#}
-10     | #ðiʔbim# | #ðiʔbim# {GOLD: #zəʔb#}
-11     | #d͡zalala# | #d͡zalala# {GOLD: #zələlə#}
-12     | #d͡zibla#ka# | #d͡zibla#ka# {GOLD: #zɨblə#kə#}
-13     | #mawɬˀaʔum# | #mawɬˀaʔum# {GOLD: #moɬˀaʔ#}
-14     | #jirbaħ# | #jirbaħ# {GOLD: #jɨrbaħ#}
-15     | #bajtam# | #bajtam# {GOLD: #betə#}
-16     | #jipqaʕ# | #jipqaʕ# {GOLD: #jɨfqaʔ#}
-17     | #ʔaɬwaːkum# | #ʔaɬwaːkum# {GOLD: #ʔəɬwaːk#}
-18     | #ɬajiba# | #ɬajiba# {GOLD: #ɬebə#}
-19     | #maθˀlimum# | #maθˀlimum# {GOLD: #məsˀlɨm#}
-20     | #t͡sˀallaja# | #t͡sˀallaja# {GOLD: #sˀəlləjə#}
-21     | #kullam# | #kullam# {GOLD: #kʷɨllə#}
-22     | #ɡubnatum# | #ɡubnatum# {GOLD: #ɡʷɨbnət#}
-23     | #kˀurbaːnum# | #kˀurbaːnum# {GOLD: #kˀʷərban#}
-24     | #xulkˀum# | #xulkˀum# {GOLD: #xʷɨlkˀʷ#}
-25     | #xariːpum# | #xariːpum# {GOLD: #xərif#}
+etID  | Input | Early-Proto-Southwest-Semitic | Pre-Ge'ez | Output {GOLD}
+0      | #jilabbis# | #jilabbis# | #jilabbis# | #jɨlɘbbɨs# {GOLD: #jɨləbbɨs#}
+1      | #labisa# | #labisa# | #labisa# | #lɘbɨsɘ# {GOLD: #ləbsə#}
+2      | #kˀatala# | #kˀatala# | #kˀatala# | #kˀɘtɘlɘ# {GOLD: #kˀətələ#}
+3      | #jiðbaħ# | #jizbaħ# | #jizbaħ# | #jɨzbɘħ# {GOLD: #jɨzbaħ#}
+4      | #jat͡sɡud# | #jat͡sɡud# | #jat͡sɡʷud# | #jɘt͡sɡʷʉd# {GOLD: #jɨsɡɨd#}
+5      | #samiʕa# | #samiʕa# | #samiʕa# | #sɘmɨʕɘ# {GOLD: #səmʕə#}
+6      | #samaːjum# | #samaːju# | #samaːju# | #sɘmaːjʉ# {GOLD: #səmaj#}
+7      | #tiɬˀabbaʔuː# | #tisˀˡabbaʔuː# | #tisˀˡabbaʔuː# | #tɨsˀˡɘbbɘʔuː# {GOLD: #tɨɬˀəbbɨʔu#}
+8      | #kawuna# | #kawuna# | #kawuna# | #kɘwʉnɘ# {GOLD: #konə#}
+9      | #θˀumʔam# | #sˀumʔa# | #sˀumʔa# | #sˀʉmʔɘ# {GOLD: #sˀɨmʔə#}
+10     | #ðiʔbim# | #ziʔbi# | #ziʔbi# | #zɨʔbɨ# {GOLD: #zɨʔb#}
+11     | #d͡zalala# | #zalala# | #zalala# | #zɘlɘlɘ# {GOLD: #zələlə#}
+12     | #d͡zibla#ka# | #zibla#ka# | #zibla#ka# | #zɨblɘ#kɘ# {GOLD: #zɨblə#kə#}
+13     | #mawɬˀaʔum# | #mawsˀˡaʔu# | #mawsˀˡaʔu# | #mɘwsˀˡɘʔʉ# {GOLD: #moɬˀaʔ#}
+14     | #jirbaħ# | #jirbaħ# | #jirbaħ# | #jɨrbɘħ# {GOLD: #jɨrbaħ#}
+15     | #bajtam# | #bajta# | #bajta# | #bɘjtɘ# {GOLD: #betə#}
+16     | #jipqaʕ# | #ji?qaʕ# | #ji?qaʕ# | #jɨ?qɘʕ# {GOLD: #jɨfqaʔ#}
+17     | #ʔaɬwaːkum# | #ʔasˡwaːku# | #ʔasˡwaːkʷu# | #ʔɘsˡwaːkʷʉ# {GOLD: #ʔəɬwaːk#}
+18     | #ɬajiba# | #sˡajiba# | #sˡajiba# | #sˡɘjɨbɘ# {GOLD: #ɬebə#}
+19     | #maθˀlimum# | #masˀlimu# | #masˀlimu# | #mɘsˀlɨmʉ# {GOLD: #məsˀlɨm#}
+20     | #t͡sˀallaja# | #t͡sˀallaja# | #t͡sˀallaja# | #t͡sˀɘllɘjɘ# {GOLD: #sˀəlləjə#}
+21     | #kullam# | #kulla# | #kʷulla# | #kʷʉllɘ# {GOLD: #kʷɨllə#}
+22     | #ɡubnatum# | #ɡubnatu# | #ɡʷubnatu# | #ɡʷʉbnɘtʉ# {GOLD: #ɡʷɨbnət#}
+23     | #kˀurbaːnum# | #kˀurbaːnu# | #kˀʷurbaːnu# | #kˀʷʉrbaːnʉ# {GOLD: #kˀʷɨrban#}
+24     | #xulkˀum# | #xulkˀu# | #xʷulkˀʷu# | #xʷʉlkˀʷʉ# {GOLD: #xʷɨlkˀʷ#}
+25     | #xariːpum# | #xariː?u# | #xariː?u# | #xɘriː?ʉ# {GOLD: #xərif#}

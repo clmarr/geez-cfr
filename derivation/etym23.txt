@@ -1,3 +1,9 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :23:
-#kˀurbaːnum# >>> #kˀurbaːnum# ( GOLD : #kˀʷərban#) :
+#kˀurbaːnum# >>> #kˀʷʉrbaːnʉ# ( GOLD : #kˀʷɨrban#) :
 kˀ u r b aː n u m 
+#kˀurbaːnu# | 0 : m > ∅ / __ #
+Early-Proto-Southwest-Semitic stage form : #kˀurbaːnu#
+#kˀʷurbaːnu# | 4 : [+back,-son] > [+round,+lab] / __ u
+Pre-Ge'ez stage form : #kˀʷurbaːnu#
+#kˀʷʉrbaːnʉ# | 5 : [+syl,-long] > [-front,-back,-lo] 
+Final form : #kˀʷʉrbaːnʉ#

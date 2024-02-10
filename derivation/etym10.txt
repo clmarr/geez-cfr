@@ -1,3 +1,9 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :10:
-#ðiʔbim# >>> #ðiʔbim# ( GOLD : #zəʔb#) :
+#ðiʔbim# >>> #zɨʔbɨ# ( GOLD : #zɨʔb#) :
 ð i ʔ b i m 
+#ðiʔbi# | 0 : m > ∅ / __ #
+#ziʔbi# | 2 : [+ant,+cont,-son] > [+strid,-distr,+cor] 
+Early-Proto-Southwest-Semitic stage form : #ziʔbi#
+Pre-Ge'ez stage form : #ziʔbi#
+#zɨʔbɨ# | 5 : [+syl,-long] > [-front,-back,-lo] 
+Final form : #zɨʔbɨ#

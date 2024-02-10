@@ -1,3 +1,10 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :17:
-#ʔaɬwaːkum# >>> #ʔaɬwaːkum# ( GOLD : #ʔəɬwaːk#) :
+#ʔaɬwaːkum# >>> #ʔɘsˡwaːkʷʉ# ( GOLD : #ʔəɬwaːk#) :
 ʔ a ɬ w aː k u m 
+#ʔaɬwaːku# | 0 : m > ∅ / __ #
+#ʔasˡwaːku# | 2 : [+ant,+cont,-son] > [+strid,-distr,+cor] 
+Early-Proto-Southwest-Semitic stage form : #ʔasˡwaːku#
+#ʔasˡwaːkʷu# | 4 : [+back,-son] > [+round,+lab] / __ u
+Pre-Ge'ez stage form : #ʔasˡwaːkʷu#
+#ʔɘsˡwaːkʷʉ# | 5 : [+syl,-long] > [-front,-back,-lo] 
+Final form : #ʔɘsˡwaːkʷʉ#

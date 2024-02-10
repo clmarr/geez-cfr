@@ -3,3 +3,39 @@ $CFR from Proto-West-Semitic
 $assumptions: emphatics as simply glottalized. 
 $ PWS a as -back +front (for typological reasons: the letter 'a' is [a], which is treated as low front) 
 $emphatic fricatives treated as simple fricatives (even if they may have been phonetically affricate in PWS) unless marked with a t/d before (as implore.3MSG.PERF was) in the handout. (< al-Jallad Feb 10 2024). 
+
+$loss of final -m
+m > ∅ / __ # 
+
+$end of late West-Semitic developments
+
+$p fricated. Shared with Arabic and MSA. But reasonably common.
+p > f 
+
+$interdentals assibilated. Shared with Canaanite. But this is also reasonably common. 
+[+ant,+cont,-son] > [+strid,-distr]
+
+$dz to z, at least. Unclear if other affricates survive as such. dz > z shared with many other (sub)branches but it's a very common shift
+d͡z > z
+
+$end of developments shared with many (but not all) other West-Semitic branches
+=Early-Proto-Southwest-Semitic
+
+
+
+
+$before short vowels are centralized, u triggers labialization on prior dorsals consonants
+[+back,-son] > [+round,+lab] / __ u
+
+=Pre-Ge'ez
+
+$I separate a Pre-Ge'ez off on the (arbitrary, but elegant-seeming) logic that (a) the vowel centralization delimits at least a few devleopments that should have happened before it into an earlier period than those that happen after, and (b) it's what makes Ge'ez start to sound like the sort of Circassianized Semitic it sounds like :) 
+
+
+$centralization (and derounding) of short vowels:
+	$  /a/ centralizes and raises to /ə/
+	$ /i/ and /u/ merge to /ɨ/  
+	$ thankfully this can be expressed in a single rule!
+[+syl,-long] > [-front,-back,-lo] 
+
+$long vowels shorten 
