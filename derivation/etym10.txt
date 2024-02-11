@@ -4,7 +4,7 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :10:
 #ðiʔbi# | 0 : m > ∅ / __ #
 #ziʔbi# | 1 : [+ant,+cont,-son,-lat] > [+strid,-distr,+cor] 
 Early-Proto-Southwest-Semitic stage form : #ziʔbi#
-Pre-Ge'ez stage form : #ziʔbi#
-#zɨʔbɨ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#zɨʔb# | 9 : ɨ > ∅ / __ #
+#ziʔb# | 7 : [+syl,+hi,-long] > ∅ / __ #
+Pre-Ge'ez stage form : #ziʔb#
+#zɨʔb# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #zɨʔb#

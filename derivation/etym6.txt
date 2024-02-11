@@ -3,8 +3,8 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :6:
 s a m aː j u m 
 #samaːju# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #samaːju#
-Pre-Ge'ez stage form : #samaːju#
-#sɘmaːjɨ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#sɘmaːj# | 9 : ɨ > ∅ / __ #
-#sɘmaj# | 14 : [+syl] > [-long,-splng] / __ [+cont]
+#samaːj# | 7 : [+syl,+hi,-long] > ∅ / __ #
+Pre-Ge'ez stage form : #samaːj#
+#sɘmaːj# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#sɘmaj# | 22 : [+syl] > [-long,-splng] / __ [+cont]
 Final form : #sɘmaj#

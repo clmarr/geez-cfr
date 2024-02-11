@@ -1,9 +1,10 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :16:
-#jipqaʕ# >>> #jɨfqaʕ# ( GOLD : #jɨfqaʕ#) :
-j i p q a ʕ 
-#jifqaʕ# | 2 : p > f 
-Early-Proto-Southwest-Semitic stage form : #jifqaʕ#
-Pre-Ge'ez stage form : #jifqaʕ#
-#jɨfqɘʕ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#jɨfqaʕ# | 15 : ɘ > a / __ [+lo,-hi,-son]
-Final form : #jɨfqaʕ#
+#jipkˀaʕ# >>> #jɨfkˀaʕ# ( GOLD : #jɨfkˀaʕ#) :
+j i p kˀ a ʕ 
+#jifkˀaʕ# | 2 : p > f 
+Early-Proto-Southwest-Semitic stage form : #jifkˀaʕ#
+#jifkˀaːʕ# | 8 : a > aː / __ [-son,+lo] #
+Pre-Ge'ez stage form : #jifkˀaːʕ#
+#jɨfkˀaːʕ# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#jɨfkˀaʕ# | 22 : [+syl] > [-long,-splng] / __ [+cont]
+Final form : #jɨfkˀaʕ#

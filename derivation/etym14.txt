@@ -2,7 +2,8 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :14:
 #jirbaħ# >>> #jɨrbaħ# ( GOLD : #jɨrbaħ#) :
 j i r b a ħ 
 Early-Proto-Southwest-Semitic stage form : #jirbaħ#
-Pre-Ge'ez stage form : #jirbaħ#
-#jɨrbɘħ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#jɨrbaħ# | 15 : ɘ > a / __ [+lo,-hi,-son]
+#jirbaːħ# | 8 : a > aː / __ [-son,+lo] #
+Pre-Ge'ez stage form : #jirbaːħ#
+#jɨrbaːħ# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#jɨrbaħ# | 22 : [+syl] > [-long,-splng] / __ [+cont]
 Final form : #jɨrbaħ#

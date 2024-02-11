@@ -3,7 +3,9 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :17:
 ʔ a ɬ w aː k u m 
 #ʔaɬwaːku# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #ʔaɬwaːku#
-Pre-Ge'ez stage form : #ʔaɬwaːku#
-#ʔɘɬwaːkɨ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#ʔɘɬwaːk# | 9 : ɨ > ∅ / __ #
+#ʔaɬwaːkʷu# | 6 : [-cor,-son,-lab] > [+round,+lab,+hi,+back] / [+syl] ( [-syl] )* __ [+back,+round,+syl]
+#ʔaɬwaːkʷ# | 7 : [+syl,+hi,-long] > ∅ / __ #
+#ʔaɬwaːk# | 13 : [-son,+round,+lab] > [-round,-lab] / [+lo,+syl] ( [-syl] )* __ 
+Pre-Ge'ez stage form : #ʔaɬwaːk#
+#ʔɘɬwaːk# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #ʔɘɬwaːk#

@@ -3,7 +3,8 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :3:
 j i ð b a ħ 
 #jizbaħ# | 1 : [+ant,+cont,-son,-lat] > [+strid,-distr,+cor] 
 Early-Proto-Southwest-Semitic stage form : #jizbaħ#
-Pre-Ge'ez stage form : #jizbaħ#
-#jɨzbɘħ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#jɨzbaħ# | 15 : ɘ > a / __ [+lo,-hi,-son]
+#jizbaːħ# | 8 : a > aː / __ [-son,+lo] #
+Pre-Ge'ez stage form : #jizbaːħ#
+#jɨzbaːħ# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#jɨzbaħ# | 22 : [+syl] > [-long,-splng] / __ [+cont]
 Final form : #jɨzbaħ#

@@ -3,7 +3,7 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :8:
 k a w u n a 
 Early-Proto-Southwest-Semitic stage form : #kawuna#
 Pre-Ge'ez stage form : #kawuna#
-#kɘwɨnɘ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#kɘwnɘ# | 10 : ɨ > ∅ / [+syl] [-syl] __ [-syl] [+syl]
-#konɘ# | 12 : ɘ [+hi,ɑback,βround,ɣfront,ɸlab] > [ɑback,βround,ɣfront,ɸlab] ∅/ __ [-syl]
+#kɘwɨnɘ# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#kɘwnɘ# | 18 : ɨ > ∅ / [+syl] [-syl] __ [-syl] [+syl]
+#konɘ# | 20 : ɘ [+hi,ɑback,βround,ɣfront,ɸlab] > [ɑback,βround,ɣfront,ɸlab] ∅/ __ [-syl]
 Final form : #konɘ#

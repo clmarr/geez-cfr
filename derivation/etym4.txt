@@ -3,7 +3,10 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :4:
 j a t͡s ɡ u d 
 #jasɡud# | 4 : [+ant,+delrel] > [+cont,0delrel] 
 Early-Proto-Southwest-Semitic stage form : #jasɡud#
-#jusɡud# | 7 : a > u / __ ( [+cons] )* [+cons,-cor,-ant] u
+#jasɡʷud# | 6 : [-cor,-son,-lab] > [+round,+lab,+hi,+back] / [+syl] ( [-syl] )* __ [+back,+round,+syl]
+#jɒsɡʷud# | 12 : a > ɒ / __ ( [-syl] ) [-son,+round,+lab]
+#jɒsɡud# | 13 : [-son,+round,+lab] > [-round,-lab] / [+lo,+syl] ( [-syl] )* __ 
+#jusɡud# | 16 : ɒ > u 
 Pre-Ge'ez stage form : #jusɡud#
-#jɨsɡɨd# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#jɨsɡɨd# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #jɨsɡɨd#

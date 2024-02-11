@@ -15,7 +15,7 @@ d͡z i b l a # k a , z ɨ b l ɘ # k ɘ $dung.ACC.2SG
 m a w ɬˀ a ʔ u m , m o ɬˀ a ʔ $gift. 
 j i r b a ħ , j ɨ r b a ħ $be_wide.3SG.PRET.SUBJ
 b a j t a m , b e t ɘ $house.ACC
-j i p q a ʕ , j ɨ f q a ʕ $split.3MSG.PRET
+j i p kˀ a ʕ , j ɨ f kˀ a ʕ $split.3MSG.PRET
 ʔ a ɬ w aː k u m , ʔ ɘ ɬ w aː k $thorns
 ɬ a j i b a , ɬ e b ɘ $gray.INCH.3SG.PRET
 m a θˀ l i m u m , m ɘ sˀ l ɨ m $dark place. 
@@ -24,4 +24,4 @@ k u l l a m , kʷ ɨ l l ɘ $all.ACC
 ɡ u b n a t u m , ɡʷ ɨ b n ɘ t $cheese
 kˀ u r b aː n u m , kˀʷ ɨ r b a n $offering
 x u l kˀ u m , xʷ ɨ l kˀʷ $ measure, portion
-x a r iː p u m , x ɘ r i f $harvesttime. f
+x a r iː p u m , x ɘ r i f $harvesttime.

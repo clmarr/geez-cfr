@@ -3,9 +3,9 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :24:
 x u l kˀ u m 
 #xulkˀu# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #xulkˀu#
-#xʷulkˀu# | 5 : [-ant,-son] > [+round,+lab,] / # ( [-syl] )* __ u
-#xʷulkˀʷu# | 6 : [-ant,-son] > [+round,+lab,] / [+syl,-lo] ( [-syl] )* __ u
-Pre-Ge'ez stage form : #xʷulkˀʷu#
-#xʷɨlkˀʷɨ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#xʷɨlkˀʷ# | 9 : ɨ > ∅ / __ #
+#xʷulkˀu# | 5 : [-cor,-son,-lab] > [+round,+lab,+hi,+back] / # ( [-syl] )* __ [+back,+round,+syl]
+#xʷulkˀʷu# | 6 : [-cor,-son,-lab] > [+round,+lab,+hi,+back] / [+syl] ( [-syl] )* __ [+back,+round,+syl]
+#xʷulkˀʷ# | 7 : [+syl,+hi,-long] > ∅ / __ #
+Pre-Ge'ez stage form : #xʷulkˀʷ#
+#xʷɨlkˀʷ# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #xʷɨlkˀʷ#

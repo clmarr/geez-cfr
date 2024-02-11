@@ -26,11 +26,36 @@ p > [+delrel,+strid]
 $end of developments shared with many (but not all) other West-Semitic branches
 =Early-Proto-Southwest-Semitic
 
-$before short vowels are centralized, u triggers labialization on prior dorsal and guttural consonants
-$ but if there is an /a/ before the cluster, it absorbs the labialization instead, and it does not remain on the cluster. If the /a/ is short, it becomes /u/. If it is long /a:/... well the reflex ends up as /a:/, and that is all we know at this time. 
-[-ant,-son] > [+round,+lab,] / {#;[+syl,-lo]} ([-syl])* __ u
-a > u / __ ([+cons])* [+cons,-cor,-ant] u
+$One major set of developments concern what seems to be regressive coloring effects.
+$there appears to be a u-mutation that results in labiovelarized prior consonants or (exclusive "or", here) ultimatley results in a prior /a/ (but not prior /a:/ getting ultimately raised to /ɨ/. 
+$Primary evidence: labiovelarized consonants resulting (before *u was reduced to ɨ and/or lost to syncope/apocope). This happens to dorsal consonantals and gutturals only it seems (note the lack of labiovelarization -- or, as shall be discussed later, vowel coloring -- as concerns the t in gubnatu) 
+	$ PWS kullam > EPSWS (k >kʷ)ulla > Geez kʷɨllɘ
+	$ PWS gubnatum > EPSWS (ɡ >ɡʷ)ubnatu > Geez ɡʷɨbnɘt
+	$ PWS kˀurbaːnum > EPSWS ( kˀ > kˀʷ)urbaːnu > Geez kˀʷɨrban
+	$ PWS xulkˀum > EPSWS (x>xʷ)ul(kˀ>kˀʷ)u > Geez xʷɨlkˀʷ
+$Further evidence -- where the labial gesture is retrated furhter back and absorbed by (the reflex of) short *a, which becomes u, later ɨ
+	$ PWS jat͡sɡud > EPSWS jasɡud > jasɡʷud > jusgud > Geez jɨzgɨd
+	$ PWS #tiɬˀabbaʔuː#  >        | #tɨɬˀɘbbɨʔu#
+$No such effect is caused by /i/, so, especially given the still evident labialization of prior consonants before PWS *u, it is safe to say that PWS *a passed through (something like) *u on its way to [ɨ], and indeed *u itself regularly becomes [ɨ] later
+[-cor,-son,-lab] > [+round,+lab,+hi,+back] / {#;[+syl]} ([-syl])* __ [+back,+round,+syl]
 
+$There is a guttural-coda effect on vowels however that appears to necessarily act after final short high vowel apocope -- a development that must come after the labiovelarization effect abovce (as it counterbleeds it) but also one for which a placement before "pre-Geez" makes sense as even though effacement of final ɨ (once we get to it, which defines Pre-Ge'ez) is typologically the most common, effacement of final high vowels is quite common across early Semitic languages and may have been already present within the variation of the proto-language... 
+$so, first, final short high vowel apocope
+[+syl,+hi,-long] > ∅ / __ # 
+
+$Coda guttural effect: Any vowel other than u becomes aː, which unlike *a not be susceptible to absorbing the ʷ gesture (independent evidence; ʔaɬwaːku > ... > ʔəɬwaːk).
+$ It is clear this does not happen to 
+$ However this does not happen if the guttural is not in a coda: tiɬˀabbaʔʷuː (uː, long, still preserved)  > tɨɬˀɘbbɨʔu
+$ Note that for the above case, it cannot be the labialization of the glottal stop that is blocking it: see mawɬˀaʔu > mawɬˀaʔʷ > moɬˀaʔ. 
+$ While there are no cases of gutturals in preconsonantal codas, this rule is designed to predict that they would also cause this effect, so that it can be even more easily falsified 
+a > aː / __ {[-son,+lo];[-cons,-cont]} {#;[-syl]}
+
+$Now, sequences of *a or *ā followed by labiovelarized consonants are illegal. They resolve by the labiovelar gesture being reassigned to the prior *a if it is short, or simply deleting if it is long (perhaps the long one actually was [ɒː] for a time.). This can see through another consonant in a cluster (which may have been phonetically labiovelarized too) 
+a > ɒ / __ ([-syl]) [-son,+round,+lab] 
+[-son,+round,+lab] > [-round,-lab] / [+lo,+syl] ([-syl])* __
+[+lo] > [-hi] 
+[-cons,-cont] > [-hi,-back]
+ɒ > u 
 
 =Pre-Ge'ez
 
@@ -44,18 +69,11 @@ $centralization (and derounding) of short vowels:
 [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 
 
-$now that we have ɨ, the weakest vowel, it is subject to syncope and apocope.
-$syncope whenever possible. 
-ɨ > ∅ / __ #
-
-$apocope of ɨ if the resulting cluster is only two asyllabics (consonant or glide) long. This is feeds ɘ glide coalescence by creating coda-glides (ɬajiba > ɬebɘ; kawuna > konɘ...) 
+$syncope of ɨ, the typologically weakest vowel, if the resulting cluster is only two asyllabics (consonant or glide) long. This is feeds ɘ glide coalescence by creating coda-glides (ɬajiba > ɬebɘ; kawuna > konɘ...) 
 ɨ > ∅ / [+syl] [-syl] __ [-syl] [+syl]
 
 $ɘ coming into contact with a glide coalesces with it to form a vowel with its same place and roundness. Rule written broadly to boldly predict ɘ + vowel coalescence if possible. However, this must happen AFTER ɨ syncope because it feeds it. This does not happen if the glide could be a syllable onset (maximal onset principle), as seen from t͡sˀallaja > sˀɘllɘjɘ. 
 ɘ [+hi,ɑback,βround,ɣfront,ɸlab] > [ɑback,βround,ɣfront,ɸlab] ∅ / __ {#;[-syl]}
 
-$long vowels shorten, except in the case of ʔaɬwaːk, which is hte only pre-stop short vowel
+$long vowels shorten, except in the case of ʔaɬwaːk, which is the only pre-stop short vowel
 [+syl] > [-long] / __ {#;[+cont]} 
-
-$ɘ lowers back to a under influence of following guttural 
-ɘ > a / __ {[+lo,-hi,-son];ʔ}

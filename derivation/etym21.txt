@@ -3,7 +3,7 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :21:
 k u l l a m 
 #kulla# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #kulla#
-#kʷulla# | 5 : [-ant,-son] > [+round,+lab,] / # ( [-syl] )* __ u
+#kʷulla# | 5 : [-cor,-son,-lab] > [+round,+lab,+hi,+back] / # ( [-syl] )* __ [+back,+round,+syl]
 Pre-Ge'ez stage form : #kʷulla#
-#kʷɨllɘ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#kʷɨllɘ# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #kʷɨllɘ#

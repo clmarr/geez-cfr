@@ -5,5 +5,5 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :9:
 #sˀumʔa# | 1 : [+ant,+cont,-son,-lat] > [+strid,-distr,+cor] 
 Early-Proto-Southwest-Semitic stage form : #sˀumʔa#
 Pre-Ge'ez stage form : #sˀumʔa#
-#sˀɨmʔɘ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#sˀɨmʔɘ# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #sˀɨmʔɘ#

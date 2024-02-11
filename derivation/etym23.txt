@@ -3,9 +3,9 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :23:
 kˀ u r b aː n u m 
 #kˀurbaːnu# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #kˀurbaːnu#
-#kˀʷurbaːnu# | 5 : [-ant,-son] > [+round,+lab,] / # ( [-syl] )* __ u
-Pre-Ge'ez stage form : #kˀʷurbaːnu#
-#kˀʷɨrbaːnɨ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#kˀʷɨrbaːn# | 9 : ɨ > ∅ / __ #
-#kˀʷɨrban# | 14 : [+syl] > [-long,-splng] / __ [+cont]
+#kˀʷurbaːnu# | 5 : [-cor,-son,-lab] > [+round,+lab,+hi,+back] / # ( [-syl] )* __ [+back,+round,+syl]
+#kˀʷurbaːn# | 7 : [+syl,+hi,-long] > ∅ / __ #
+Pre-Ge'ez stage form : #kˀʷurbaːn#
+#kˀʷɨrbaːn# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#kˀʷɨrban# | 22 : [+syl] > [-long,-splng] / __ [+cont]
 Final form : #kˀʷɨrban#

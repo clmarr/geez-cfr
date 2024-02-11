@@ -1,11 +1,14 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :13:
-#mawɬˀaʔum# >>> #moɬˀaʔ# ( GOLD : #moɬˀaʔ#) :
+#mawɬˀaʔum# >>> #moɬˀaːʔ# ( GOLD : #moɬˀaʔ#) :
 m a w ɬˀ a ʔ u m 
 #mawɬˀaʔu# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #mawɬˀaʔu#
-Pre-Ge'ez stage form : #mawɬˀaʔu#
-#mɘwɬˀɘʔɨ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#mɘwɬˀɘʔ# | 9 : ɨ > ∅ / __ #
-#moɬˀɘʔ# | 12 : ɘ [+hi,ɑback,βround,ɣfront,ɸlab] > [ɑback,βround,ɣfront,ɸlab] ∅/ __ [-syl]
-#moɬˀaʔ# | 16 : ɘ > a / __ ʔ
-Final form : #moɬˀaʔ#
+#mawɬˀaʔʷu# | 6 : [-cor,-son,-lab] > [+round,+lab,+hi,+back] / [+syl] ( [-syl] )* __ [+back,+round,+syl]
+#mawɬˀaʔʷ# | 7 : [+syl,+hi,-long] > ∅ / __ #
+#mawɬˀaːʔʷ# | 10 : a > aː / __ [-cons,-cont] #
+#mawɬˀaː?# | 13 : [-son,+round,+lab] > [-round,-lab] / [+lo,+syl] ( [-syl] )* __ 
+#mawɬˀaːʔ# | 15 : [-cons,-cont] > [-hi,-back] 
+Pre-Ge'ez stage form : #mawɬˀaːʔ#
+#mɘwɬˀaːʔ# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#moɬˀaːʔ# | 20 : ɘ [+hi,ɑback,βround,ɣfront,ɸlab] > [ɑback,βround,ɣfront,ɸlab] ∅/ __ [-syl]
+Final form : #moɬˀaːʔ#

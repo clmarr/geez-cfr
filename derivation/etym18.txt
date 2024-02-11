@@ -3,7 +3,7 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :18:
 ɬ a j i b a 
 Early-Proto-Southwest-Semitic stage form : #ɬajiba#
 Pre-Ge'ez stage form : #ɬajiba#
-#ɬɘjɨbɘ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#ɬɘjbɘ# | 10 : ɨ > ∅ / [+syl] [-syl] __ [-syl] [+syl]
-#ɬebɘ# | 12 : ɘ [+hi,ɑback,βround,ɣfront,ɸlab] > [ɑback,βround,ɣfront,ɸlab] ∅/ __ [-syl]
+#ɬɘjɨbɘ# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#ɬɘjbɘ# | 18 : ɨ > ∅ / [+syl] [-syl] __ [-syl] [+syl]
+#ɬebɘ# | 20 : ɘ [+hi,ɑback,βround,ɣfront,ɸlab] > [ɑback,βround,ɣfront,ɸlab] ∅/ __ [-syl]
 Final form : #ɬebɘ#

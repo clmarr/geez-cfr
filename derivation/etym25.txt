@@ -4,8 +4,8 @@ x a r iː p u m
 #xariːpu# | 0 : m > ∅ / __ #
 #xariːfu# | 2 : p > f 
 Early-Proto-Southwest-Semitic stage form : #xariːfu#
-Pre-Ge'ez stage form : #xariːfu#
-#xɘriːfɨ# | 8 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#xɘriːf# | 9 : ɨ > ∅ / __ #
-#xɘrif# | 14 : [+syl] > [-long,-splng] / __ [+cont]
+#xariːf# | 7 : [+syl,+hi,-long] > ∅ / __ #
+Pre-Ge'ez stage form : #xariːf#
+#xɘriːf# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#xɘrif# | 22 : [+syl] > [-long,-splng] / __ [+cont]
 Final form : #xɘrif#
