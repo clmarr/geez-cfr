@@ -15,16 +15,13 @@ $end of late West-Semitic developments
 $interdentals assibilated. Shared with Canaanite. But this is also reasonably common. 
 [+ant,+cont,-son,-lat] > [+strid,-distr]
 
-$p fricated. Shared with Arabic and MSA. But reasonably common.
-p > f 
-
 $dz to z and ts to s deaffricated. This is shared with Hebrew. p to f also happens (shared with Arabic and MSA). Unclear if other affricates survive as such. Running these all together.
 	$  > [+delrel], because p͡ɸ is yet undefined in symbolDefs
 p > [+delrel,+strid]
-[+ant,+delrel] > [+cont]
+[+delrel] > [+cont]
 
 $end of developments shared with many (but not all) other West-Semitic branches
-=Early-Proto-Southwest-Semitic
+=Early-Proto-Ethiopic
 
 $One major set of developments concern what seems to be regressive coloring effects.
 $there appears to be a u-mutation that results in labiovelarized prior consonants or (exclusive "or", here) ultimatley results in a prior /a/ (but not prior /a:/ getting ultimately raised to /ɨ/. 
@@ -59,7 +56,7 @@ a > ɒ / __ ([-syl]) [-son,+round,+lab]
 
 =Pre-Ge'ez
 
-$I separate a Pre-Ge'ez off on the (arbitrary, but elegant-seeming) logic that (a) the vowel centralization delimits at least a few devleopments that should have happened before it into an earlier period than those that happen after, and (b) it's what makes Ge'ez start to sound like the sort of Circassianized Semitic it sounds like :) 
+$I separate a Pre-Ge'ez off on the (arbitrary, but elegant-seeming) logic that (a) the vowel centralization delimits at least a few developments that should have happened before it into an earlier period than those that happen after, and (b) it's what makes Ge'ez start to sound like the sort of Circassianized Semitic it sounds like :) 
 
 
 $centralization (and derounding) of short vowels:
