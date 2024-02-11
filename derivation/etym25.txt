@@ -7,5 +7,5 @@ Early-Proto-Southwest-Semitic stage form : #xariːfu#
 #xariːf# | 7 : [+syl,+hi,-long] > ∅ / __ #
 Pre-Ge'ez stage form : #xariːf#
 #xɘriːf# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#xɘrif# | 22 : [+syl] > [-long,-splng] / __ [+cont]
+#xɘrif# | 21 : [+syl] > [-long,-splng] 
 Final form : #xɘrif#

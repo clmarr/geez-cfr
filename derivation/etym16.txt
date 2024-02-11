@@ -6,5 +6,5 @@ Early-Proto-Southwest-Semitic stage form : #jifkˀaʕ#
 #jifkˀaːʕ# | 8 : a > aː / __ [-son,+lo] #
 Pre-Ge'ez stage form : #jifkˀaːʕ#
 #jɨfkˀaːʕ# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#jɨfkˀaʕ# | 22 : [+syl] > [-long,-splng] / __ [+cont]
+#jɨfkˀaʕ# | 21 : [+syl] > [-long,-splng] 
 Final form : #jɨfkˀaʕ#

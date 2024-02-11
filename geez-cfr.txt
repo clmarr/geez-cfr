@@ -75,5 +75,5 @@ $syncope of ɨ, the typologically weakest vowel, if the resulting cluster is onl
 $ɘ coming into contact with a glide coalesces with it to form a vowel with its same place and roundness. Rule written broadly to boldly predict ɘ + vowel coalescence if possible. However, this must happen AFTER ɨ syncope because it feeds it. This does not happen if the glide could be a syllable onset (maximal onset principle), as seen from t͡sˀallaja > sˀɘllɘjɘ. 
 ɘ [+hi,ɑback,βround,ɣfront,ɸlab] > [ɑback,βround,ɣfront,ɸlab] ∅ / __ {#;[-syl]}
 
-$long vowels shorten, except in the case of ʔaɬwaːk, which is the only pre-stop short vowel
-[+syl] > [-long] / __ {#;[+cont]} 
+$long vowels shorten, except in the case of ʔaɬwaːk, which is the only pre-stop short vowel. That alone doesn't justify complicating the rule, it is left as an exception. 
+[+syl] > [-long] 

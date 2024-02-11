@@ -19,5 +19,4 @@ a > ɒ / __ ( [-syl] ) [-son,+round,+lab]
 ɨ > ∅ / [+syl] [-syl] __ [-syl] [+syl]
 ɘ [+hi,ɑback,βround,ɣfront,ɸlab] > [ɑback,βround,ɣfront,ɸlab] ∅/ __ #
 ɘ [+hi,ɑback,βround,ɣfront,ɸlab] > [ɑback,βround,ɣfront,ɸlab] ∅/ __ [-syl]
-[+syl] > [-long,-splng] / __ #
-[+syl] > [-long,-splng] / __ [+cont]
+[+syl] > [-long,-splng] 

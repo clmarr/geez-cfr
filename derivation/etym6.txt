@@ -6,5 +6,5 @@ Early-Proto-Southwest-Semitic stage form : #samaːju#
 #samaːj# | 7 : [+syl,+hi,-long] > ∅ / __ #
 Pre-Ge'ez stage form : #samaːj#
 #sɘmaːj# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#sɘmaj# | 22 : [+syl] > [-long,-splng] / __ [+cont]
+#sɘmaj# | 21 : [+syl] > [-long,-splng] 
 Final form : #sɘmaj#

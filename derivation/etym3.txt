@@ -6,5 +6,5 @@ Early-Proto-Southwest-Semitic stage form : #jizbaħ#
 #jizbaːħ# | 8 : a > aː / __ [-son,+lo] #
 Pre-Ge'ez stage form : #jizbaːħ#
 #jɨzbaːħ# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#jɨzbaħ# | 22 : [+syl] > [-long,-splng] / __ [+cont]
+#jɨzbaħ# | 21 : [+syl] > [-long,-splng] 
 Final form : #jɨzbaħ#

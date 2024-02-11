@@ -7,5 +7,5 @@ Early-Proto-Southwest-Semitic stage form : #kˀurbaːnu#
 #kˀʷurbaːn# | 7 : [+syl,+hi,-long] > ∅ / __ #
 Pre-Ge'ez stage form : #kˀʷurbaːn#
 #kˀʷɨrbaːn# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#kˀʷɨrban# | 22 : [+syl] > [-long,-splng] / __ [+cont]
+#kˀʷɨrban# | 21 : [+syl] > [-long,-splng] 
 Final form : #kˀʷɨrban#

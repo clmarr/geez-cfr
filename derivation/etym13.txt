@@ -1,5 +1,5 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :13:
-#mawɬˀaʔum# >>> #moɬˀaːʔ# ( GOLD : #moɬˀaʔ#) :
+#mawɬˀaʔum# >>> #moɬˀaʔ# ( GOLD : #moɬˀaʔ#) :
 m a w ɬˀ a ʔ u m 
 #mawɬˀaʔu# | 0 : m > ∅ / __ #
 Early-Proto-Southwest-Semitic stage form : #mawɬˀaʔu#
@@ -11,4 +11,5 @@ Early-Proto-Southwest-Semitic stage form : #mawɬˀaʔu#
 Pre-Ge'ez stage form : #mawɬˀaːʔ#
 #mɘwɬˀaːʔ# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 #moɬˀaːʔ# | 20 : ɘ [+hi,ɑback,βround,ɣfront,ɸlab] > [ɑback,βround,ɣfront,ɸlab] ∅/ __ [-syl]
-Final form : #moɬˀaːʔ#
+#moɬˀaʔ# | 21 : [+syl] > [-long,-splng] 
+Final form : #moɬˀaʔ#
