@@ -2,8 +2,8 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :21:
 #kullam# >>> #kʷɨllɘ# ( GOLD : #kʷɨllɘ#) :
 k u l l a m 
 #kulla# | 0 : m > ∅ / __ #
-Early-Proto-Southwest-Semitic stage form : #kulla#
-#kʷulla# | 5 : [-cor,-son,-lab] > [+round,+lab,+hi,+back] / # ( [-syl] )* __ [+back,+round,+syl]
+Early-Proto-Ethiopic stage form : #kulla#
+#kʷulla# | 4 : [-cor,-son,-lab] > [+round,+lab,+hi,+back] / # ( [-syl] )* __ [+back,+round,+syl]
 Pre-Ge'ez stage form : #kʷulla#
-#kʷɨllɘ# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#kʷɨllɘ# | 16 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #kʷɨllɘ#

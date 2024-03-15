@@ -1,12 +1,12 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :4:
 #jat͡sɡud# >>> #jɨsɡɨd# ( GOLD : #jɨsɡɨd#) :
 j a t͡s ɡ u d 
-#jasɡud# | 4 : [+ant,+delrel] > [+cont,0delrel] 
-Early-Proto-Southwest-Semitic stage form : #jasɡud#
-#jasɡʷud# | 6 : [-cor,-son,-lab] > [+round,+lab,+hi,+back] / [+syl] ( [-syl] )* __ [+back,+round,+syl]
-#jɒsɡʷud# | 12 : a > ɒ / __ ( [-syl] ) [-son,+round,+lab]
-#jɒsɡud# | 13 : [-son,+round,+lab] > [-round,-lab] / [+lo,+syl] ( [-syl] )* __ 
-#jusɡud# | 16 : ɒ > u 
+#jasɡud# | 3 : [+delrel] > [+cont,0delrel] 
+Early-Proto-Ethiopic stage form : #jasɡud#
+#jasɡʷud# | 5 : [-cor,-son,-lab] > [+round,+lab,+hi,+back] / [+syl] ( [-syl] )* __ [+back,+round,+syl]
+#jɒsɡʷud# | 11 : a > ɒ / __ ( [-syl] ) [-son,+round,+lab]
+#jɒsɡud# | 12 : [-son,+round,+lab] > [-round,-lab] / [+lo,+syl] ( [-syl] )* __ 
+#jusɡud# | 15 : ɒ > u 
 Pre-Ge'ez stage form : #jusɡud#
-#jɨsɡɨd# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#jɨsɡɨd# | 16 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #jɨsɡɨd#

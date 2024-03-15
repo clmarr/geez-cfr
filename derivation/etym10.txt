@@ -3,8 +3,8 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :10:
 ð i ʔ b i m 
 #ðiʔbi# | 0 : m > ∅ / __ #
 #ziʔbi# | 1 : [+ant,+cont,-son,-lat] > [+strid,-distr,+cor] 
-Early-Proto-Southwest-Semitic stage form : #ziʔbi#
-#ziʔb# | 7 : [+syl,+hi,-long] > ∅ / __ #
+Early-Proto-Ethiopic stage form : #ziʔbi#
+#ziʔb# | 6 : [+syl,+hi,-long] > ∅ / __ #
 Pre-Ge'ez stage form : #ziʔb#
-#zɨʔb# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#zɨʔb# | 16 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #zɨʔb#

@@ -1,8 +1,8 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :11:
 #d͡zalala# >>> #zɘlɘlɘ# ( GOLD : #zɘlɘlɘ#) :
 d͡z a l a l a 
-#zalala# | 4 : [+ant,+delrel] > [+cont,0delrel] 
-Early-Proto-Southwest-Semitic stage form : #zalala#
+#zalala# | 3 : [+delrel] > [+cont,0delrel] 
+Early-Proto-Ethiopic stage form : #zalala#
 Pre-Ge'ez stage form : #zalala#
-#zɘlɘlɘ# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#zɘlɘlɘ# | 16 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #zɘlɘlɘ#

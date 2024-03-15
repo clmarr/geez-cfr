@@ -2,10 +2,11 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :25:
 #xariːpum# >>> #xɘrif# ( GOLD : #xɘrif#) :
 x a r iː p u m 
 #xariːpu# | 0 : m > ∅ / __ #
-#xariːfu# | 2 : p > f 
-Early-Proto-Southwest-Semitic stage form : #xariːfu#
-#xariːf# | 7 : [+syl,+hi,-long] > ∅ / __ #
+#xariː?u# | 2 : p > ? 
+#xariːfu# | 3 : [+delrel] > [+cont,0delrel] 
+Early-Proto-Ethiopic stage form : #xariːfu#
+#xariːf# | 6 : [+syl,+hi,-long] > ∅ / __ #
 Pre-Ge'ez stage form : #xariːf#
-#xɘriːf# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#xɘrif# | 21 : [+syl] > [-long,-splng] 
+#xɘriːf# | 16 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#xɘrif# | 20 : [+syl] > [-long,-splng] 
 Final form : #xɘrif#

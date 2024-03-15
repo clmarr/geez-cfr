@@ -1,8 +1,7 @@
 m > ∅ / __ #
 [+ant,+cont,-son,-lat] > [+strid,-distr,+cor] 
-p > f 
 p > ? 
-[+ant,+delrel] > [+cont,0delrel] 
+[+delrel] > [+cont,0delrel] 
 [-cor,-son,-lab] > [+round,+lab,+hi,+back] / # ( [-syl] )* __ [+back,+round,+syl]
 [-cor,-son,-lab] > [+round,+lab,+hi,+back] / [+syl] ( [-syl] )* __ [+back,+round,+syl]
 [+syl,+hi,-long] > ∅ / __ #

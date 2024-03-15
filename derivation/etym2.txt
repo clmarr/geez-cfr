@@ -1,7 +1,7 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :2:
 #kˀatala# >>> #kˀɘtɘlɘ# ( GOLD : #kˀɘtɘlɘ#) :
 kˀ a t a l a 
-Early-Proto-Southwest-Semitic stage form : #kˀatala#
+Early-Proto-Ethiopic stage form : #kˀatala#
 Pre-Ge'ez stage form : #kˀatala#
-#kˀɘtɘlɘ# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#kˀɘtɘlɘ# | 16 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #kˀɘtɘlɘ#

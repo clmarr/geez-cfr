@@ -1,13 +1,13 @@
 Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :7:
 #tiɬˀabbaʔuː# >>> #tɨɬˀɘbbɨʔu# ( GOLD : #tɨɬˀɘbbɨʔu#) :
 t i ɬˀ a b b a ʔ uː 
-Early-Proto-Southwest-Semitic stage form : #tiɬˀabbaʔuː#
-#tiɬˀabbaʔʷuː# | 6 : [-cor,-son,-lab] > [+round,+lab,+hi,+back] / [+syl] ( [-syl] )* __ [+back,+round,+syl]
-#tiɬˀabbɒʔʷuː# | 12 : a > ɒ / __ ( [-syl] ) [-son,+round,+lab]
-#tiɬˀabbɒ?uː# | 13 : [-son,+round,+lab] > [-round,-lab] / [+lo,+syl] ( [-syl] )* __ 
-#tiɬˀabbɒʔuː# | 15 : [-cons,-cont] > [-hi,-back] 
-#tiɬˀabbuʔuː# | 16 : ɒ > u 
+Early-Proto-Ethiopic stage form : #tiɬˀabbaʔuː#
+#tiɬˀabbaʔʷuː# | 5 : [-cor,-son,-lab] > [+round,+lab,+hi,+back] / [+syl] ( [-syl] )* __ [+back,+round,+syl]
+#tiɬˀabbɒʔʷuː# | 11 : a > ɒ / __ ( [-syl] ) [-son,+round,+lab]
+#tiɬˀabbɒ?uː# | 12 : [-son,+round,+lab] > [-round,-lab] / [+lo,+syl] ( [-syl] )* __ 
+#tiɬˀabbɒʔuː# | 14 : [-cons,-cont] > [-hi,-back] 
+#tiɬˀabbuʔuː# | 15 : ɒ > u 
 Pre-Ge'ez stage form : #tiɬˀabbuʔuː#
-#tɨɬˀɘbbɨʔuː# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
-#tɨɬˀɘbbɨʔu# | 21 : [+syl] > [-long,-splng] 
+#tɨɬˀɘbbɨʔuː# | 16 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#tɨɬˀɘbbɨʔu# | 20 : [+syl] > [-long,-splng] 
 Final form : #tɨɬˀɘbbɨʔu#

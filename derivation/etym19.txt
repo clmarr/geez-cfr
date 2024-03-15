@@ -3,8 +3,8 @@ Derivation file for run '../comp-sem-cfrs/geez-cfr'; etymon number :19:
 m a θˀ l i m u m 
 #maθˀlimu# | 0 : m > ∅ / __ #
 #masˀlimu# | 1 : [+ant,+cont,-son,-lat] > [+strid,-distr,+cor] 
-Early-Proto-Southwest-Semitic stage form : #masˀlimu#
-#masˀlim# | 7 : [+syl,+hi,-long] > ∅ / __ #
+Early-Proto-Ethiopic stage form : #masˀlimu#
+#masˀlim# | 6 : [+syl,+hi,-long] > ∅ / __ #
 Pre-Ge'ez stage form : #masˀlim#
-#mɘsˀlɨm# | 17 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
+#mɘsˀlɨm# | 16 : [+syl,-long] > [-front,-back,-lo,-round,-lab] 
 Final form : #mɘsˀlɨm#
